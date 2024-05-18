@@ -1,0 +1,10 @@
+.indiv-dish {
+    height: 100px;
+    width: 100px;
+    border: solid black;
+}
+
+.chicken-dishes {
+    display: flex;
+    gap: 10px;
+}
